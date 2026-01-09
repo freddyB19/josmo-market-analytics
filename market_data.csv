@@ -1,0 +1,78 @@
+Fecha,Marca,Producto,Precio Oficial ($),Precio Retailer ($),Diferencia (%),Stock,Canal
+2026-01-09,Josmo Kids,Walking Shoes,46.51,44.3,-2.21,Low Stock,Walmart
+2026-01-09,Josmo Kids,Classic Boot,46.92,40.08,-6.84,Low Stock,Target
+2026-01-09,Josmo Kids,School Uniform Shoe,43.04,43.61,0.57,In Stock,Zappos
+2026-01-09,Disney,Mickey Mouse Sneaker,37.53,37.42,-0.11,In Stock,Amazon
+2026-01-09,Disney,Frozen Elsa Boot,34.86,38.94,4.08,Out of Stock,Target
+2026-01-09,Disney,Princess Glitter Shoe,39.93,40.55,0.62,Out of Stock,Target
+2026-01-09,Marvel,Spider-Man Light-up,37.03,29.72,-7.31,Low Stock,Zappos
+2026-01-09,Marvel,Avengers Sport Shoe,35.0,35.13,0.13,In Stock,Target
+2026-01-09,Marvel,Black Panther Sneaker,34.43,35.25,0.82,In Stock,Target
+2026-01-09,Laura Ashley,Floral Party Dress Shoe,38.6,31.57,-7.03,In Stock,Zappos
+2026-01-09,Laura Ashley,Mary Jane Classic,33.24,35.67,2.43,Out of Stock,Target
+2026-01-08,Josmo Kids,Walking Shoes,49.09,43.61,-5.48,In Stock,Amazon
+2026-01-08,Josmo Kids,Classic Boot,43.41,39.26,-4.15,Out of Stock,Zappos
+2026-01-08,Josmo Kids,School Uniform Shoe,44.9,42.5,-2.4,In Stock,Walmart
+2026-01-08,Disney,Mickey Mouse Sneaker,34.01,32.26,-1.75,In Stock,Target
+2026-01-08,Disney,Frozen Elsa Boot,38.05,35.71,-2.34,In Stock,Target
+2026-01-08,Disney,Princess Glitter Shoe,34.65,38.43,3.78,Low Stock,Zappos
+2026-01-08,Marvel,Spider-Man Light-up,38.18,43.54,5.36,In Stock,Target
+2026-01-08,Marvel,Avengers Sport Shoe,34.88,29.48,-5.4,Low Stock,Walmart
+2026-01-08,Marvel,Black Panther Sneaker,39.83,32.0,-7.83,In Stock,Target
+2026-01-08,Laura Ashley,Floral Party Dress Shoe,35.68,31.31,-4.37,In Stock,Amazon
+2026-01-08,Laura Ashley,Mary Jane Classic,39.81,37.82,-1.99,In Stock,Target
+2026-01-07,Josmo Kids,Walking Shoes,44.92,46.3,1.38,In Stock,Target
+2026-01-07,Josmo Kids,Classic Boot,46.33,45.51,-0.82,In Stock,Amazon
+2026-01-07,Josmo Kids,School Uniform Shoe,49.15,44.0,-5.15,In Stock,Zappos
+2026-01-07,Disney,Mickey Mouse Sneaker,38.52,32.93,-5.59,In Stock,Target
+2026-01-07,Disney,Frozen Elsa Boot,36.08,36.29,0.21,In Stock,Walmart
+2026-01-07,Disney,Princess Glitter Shoe,36.94,42.15,5.21,Out of Stock,Amazon
+2026-01-07,Marvel,Spider-Man Light-up,39.54,38.96,-0.58,In Stock,Walmart
+2026-01-07,Marvel,Avengers Sport Shoe,36.7,29.85,-6.85,In Stock,Target
+2026-01-07,Marvel,Black Panther Sneaker,34.49,29.61,-4.88,In Stock,Walmart
+2026-01-07,Laura Ashley,Floral Party Dress Shoe,38.62,41.21,2.59,In Stock,Walmart
+2026-01-07,Laura Ashley,Mary Jane Classic,34.47,35.95,1.48,In Stock,Zappos
+2026-01-06,Josmo Kids,Walking Shoes,44.03,46.68,2.65,In Stock,Amazon
+2026-01-06,Josmo Kids,Classic Boot,49.11,43.91,-5.2,In Stock,Target
+2026-01-06,Josmo Kids,School Uniform Shoe,43.12,34.78,-8.34,In Stock,Walmart
+2026-01-06,Disney,Mickey Mouse Sneaker,38.77,39.31,0.54,In Stock,Zappos
+2026-01-06,Disney,Frozen Elsa Boot,38.68,31.6,-7.08,In Stock,Zappos
+2026-01-06,Disney,Princess Glitter Shoe,35.06,37.2,2.14,Out of Stock,Walmart
+2026-01-06,Marvel,Spider-Man Light-up,38.96,36.7,-2.26,In Stock,Walmart
+2026-01-06,Marvel,Avengers Sport Shoe,33.68,29.11,-4.57,In Stock,Walmart
+2026-01-06,Marvel,Black Panther Sneaker,36.88,30.8,-6.08,Low Stock,Amazon
+2026-01-06,Laura Ashley,Floral Party Dress Shoe,35.1,32.85,-2.25,Low Stock,Walmart
+2026-01-06,Laura Ashley,Mary Jane Classic,38.12,35.31,-2.81,In Stock,Walmart
+2026-01-05,Josmo Kids,Walking Shoes,47.03,43.2,-3.83,In Stock,Target
+2026-01-05,Josmo Kids,Classic Boot,46.64,51.66,5.02,Out of Stock,Amazon
+2026-01-05,Josmo Kids,School Uniform Shoe,49.46,52.89,3.43,Out of Stock,Target
+2026-01-05,Disney,Mickey Mouse Sneaker,35.62,29.97,-5.65,In Stock,Walmart
+2026-01-05,Disney,Frozen Elsa Boot,33.12,26.9,-6.22,In Stock,Amazon
+2026-01-05,Disney,Princess Glitter Shoe,39.29,43.55,4.26,In Stock,Walmart
+2026-01-05,Marvel,Spider-Man Light-up,33.68,35.1,1.42,In Stock,Target
+2026-01-05,Marvel,Avengers Sport Shoe,34.23,39.35,5.12,In Stock,Amazon
+2026-01-05,Marvel,Black Panther Sneaker,37.65,34.29,-3.36,Low Stock,Zappos
+2026-01-05,Laura Ashley,Floral Party Dress Shoe,38.06,37.78,-0.28,Out of Stock,Zappos
+2026-01-05,Laura Ashley,Mary Jane Classic,38.41,43.57,5.16,In Stock,Target
+2026-01-04,Josmo Kids,Walking Shoes,48.32,43.95,-4.37,In Stock,Walmart
+2026-01-04,Josmo Kids,Classic Boot,44.64,37.59,-7.05,In Stock,Target
+2026-01-04,Josmo Kids,School Uniform Shoe,48.02,48.92,0.9,In Stock,Zappos
+2026-01-04,Disney,Mickey Mouse Sneaker,34.22,36.36,2.14,Out of Stock,Zappos
+2026-01-04,Disney,Frozen Elsa Boot,36.0,33.02,-2.98,In Stock,Amazon
+2026-01-04,Disney,Princess Glitter Shoe,39.55,36.26,-3.29,Out of Stock,Amazon
+2026-01-04,Marvel,Spider-Man Light-up,36.34,38.96,2.62,In Stock,Zappos
+2026-01-04,Marvel,Avengers Sport Shoe,38.82,32.79,-6.03,Low Stock,Target
+2026-01-04,Marvel,Black Panther Sneaker,38.26,32.89,-5.37,In Stock,Amazon
+2026-01-04,Laura Ashley,Floral Party Dress Shoe,33.82,32.14,-1.68,In Stock,Target
+2026-01-04,Laura Ashley,Mary Jane Classic,33.17,36.26,3.09,In Stock,Target
+2026-01-03,Josmo Kids,Walking Shoes,49.48,49.71,0.23,Low Stock,Amazon
+2026-01-03,Josmo Kids,Classic Boot,48.91,40.55,-8.36,In Stock,Walmart
+2026-01-03,Josmo Kids,School Uniform Shoe,48.59,44.41,-4.18,In Stock,Zappos
+2026-01-03,Disney,Mickey Mouse Sneaker,34.01,28.49,-5.52,In Stock,Target
+2026-01-03,Disney,Frozen Elsa Boot,36.1,38.67,2.57,In Stock,Target
+2026-01-03,Disney,Princess Glitter Shoe,34.2,36.39,2.19,Low Stock,Zappos
+2026-01-03,Marvel,Spider-Man Light-up,33.68,29.15,-4.53,In Stock,Target
+2026-01-03,Marvel,Avengers Sport Shoe,34.48,36.67,2.19,In Stock,Amazon
+2026-01-03,Marvel,Black Panther Sneaker,36.9,31.64,-5.26,In Stock,Zappos
+2026-01-03,Laura Ashley,Floral Party Dress Shoe,36.09,29.52,-6.57,In Stock,Amazon
+2026-01-03,Laura Ashley,Mary Jane Classic,39.77,32.11,-7.66,Low Stock,Amazon
