@@ -5,7 +5,7 @@ import plotly.express as px
 
 st.set_page_config(page_title="Josmo Analytics", page_icon="👟")
 
-# Título con estilo
+
 st.markdown("# 🚀 Josmo Market Intelligence")
 st.markdown("---")
 
